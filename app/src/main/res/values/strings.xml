@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Optimal Running Speed</string>
+    <string name="welcome_text">Welcome.\nFill in the required fields to calculate your possible pace and finishing time for a half marathon.</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="your_distance">your distance</string>
+    <string name="your_time">your time</string>
+
 </resources>
