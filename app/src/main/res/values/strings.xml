@@ -4,5 +4,6 @@
     <string name="calculate_button">Calculate</string>
     <string name="your_distance">your distance</string>
     <string name="your_time">your time</string>
+    <string name="error">Error</string>
 
 </resources>
