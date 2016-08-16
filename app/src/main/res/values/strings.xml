@@ -1,9 +1,21 @@
 <resources>
     <string name="app_name">Optimal Running Speed</string>
-    <string name="welcome_text">Welcome.\nFill in the required fields to calculate your possible pace and finishing time for a half marathon.</string>
+    <string name="welcome_text">Welcome.\nBased on the time you can run a certain distance it is possible to estimate the VO2max and the potential time/speed/pace for any other long distance run. Fill in the required fields to calculate your possible pace and finishing time for a half marathon.</string>
     <string name="calculate_button">Calculate</string>
     <string name="your_distance">your distance</string>
     <string name="your_time">your time</string>
+
+    <string name="results">Here are your results:</string>
+
+    <string name="vO2_dimensions"> ml/kg/min (Millilitres of Oxygen per kg body weight per minute)</string>
+    <string name="vVO2_explanation">Your max speed for aerobic training runs:</string>
+
+
+    Error Messages
     <string name="error">Error</string>
+    <string name="error_distance">Please enter a distance.</string>
+    <string name="error_time">Please check your time entries.</string>
+    <string name="error_time_zero">Please enter a time.</string>
+    <string name="error_60_seconds_minutes">Minutes and seconds can\'t be larger than 59.</string>
 
 </resources>
