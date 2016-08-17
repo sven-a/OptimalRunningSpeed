@@ -1,5 +1,5 @@
 # OptimalRunningSpeed
-Calculates the pace and speed for a half marathon based on the results of a shorter test run.
+Android app that alculates the pace and speed for a half marathon based on the results of a shorter test run.
 The idea was sparked from the website http://www.runningforfitness.org/
 The calculations are described on this page: http://www.runningforfitness.org/faq/vo2-max
 
